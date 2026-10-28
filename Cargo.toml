@@ -1,0 +1,9 @@
+[package]
+name = "palindrome"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+[[bin]]
+name = "palindrome"
+path = "src/main.rs"
+[dependencies]
